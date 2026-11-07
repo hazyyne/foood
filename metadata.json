@@ -1,0 +1,6 @@
+{
+  "name": "Member Management",
+  "description": "Ứng dụng quản lý thành viên dành cho sinh viên và câu lạc bộ với giao diện xanh dương hiện đại, đầy đủ chức năng thêm, sửa, xóa, tìm kiếm và thống kê.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
